@@ -1,0 +1,30 @@
+Search by name dic results:
+{'base': 'stations',
+ 'clouds': {'all': 20},
+ 'cod': 200,
+ 'coord': {'lat': -1.28, 'lon': 36.82},
+ 'dt': 1582945157,
+ 'id': 184745,
+ 'main': {'feels_like': 287.75,
+          'humidity': 87,
+          'pressure': 1021,
+          'temp': 287.97,
+          'temp_max': 289.15,
+          'temp_min': 286.48},
+ 'name': 'Nairobi',
+ 'sys': {'country': 'KE',
+         'id': 2543,
+         'sunrise': 1582947680,
+         'sunset': 1582991367,
+         'type': 1},
+ 'timezone': 10800,
+ 'visibility': 10000,
+ 'weather': [{'description': 'few clouds',
+              'icon': '02n',
+              'id': 801,
+              'main': 'Clouds'}],
+ 'wind': {'deg': 310, 'speed': 1.5}}
+ 
+ Search by ID results:
+ 
+ 
