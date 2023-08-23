@@ -19,7 +19,7 @@ class Ui_MainWindow(object):
         MainWindow.setFont(font)
         MainWindow.setWindowOpacity(1.0)
         MainWindow.setAutoFillBackground(False)
-        MainWindow.setStyleSheet("background-image: url(:/imgs/images/Jk5bLa.jpg);")
+        MainWindow.setStyleSheet("background-image: url(:/imgs/images/9A5vMm.jpg);")
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.label_whereLocation = QtWidgets.QLabel(self.centralwidget)
